@@ -27,5 +27,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ## Collaborators :
-Morad Benkaraache, Youssef Lamzaouak, Qian Xu
+Morad Benkaraache, Youssef Lamzaouak, Qian Xu.
 
