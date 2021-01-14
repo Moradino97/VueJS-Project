@@ -1,4 +1,5 @@
-# solution
+# VUEJS Project :
+-----------------
 
 ## Project setup
 ```
@@ -22,3 +23,11 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+## Collaborators :
+-> Morad BenKaraache ,
+-> Youssef Lamzaouak, 
+-> Qian Xu
+
